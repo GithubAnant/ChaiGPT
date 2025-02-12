@@ -12,7 +12,7 @@ ChaiGPT is a Rasa-based conversational chatbot designed for secure internal comp
 ## Installation
 1. Clone the repository:
    ```bash```
-   git clone https://github.com/yourusername/chaigpt.git
+   git clone https://github.com/GithubAnant/chaigpt.git
 2. cd chaigpt
 
    
